@@ -4,6 +4,8 @@ This is an iOS application built with *SwiftUI* and *MVVM architecture*. It serv
 
 ---
 
+================NOTE- "I'm Using demo api for show the data its not a accurate json"==========
+
 ## 🏗 Project Architecture
 
 The project follows the *MVVM (Model-View-ViewModel)* architecture pattern:
